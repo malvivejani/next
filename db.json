@@ -1,0 +1,19 @@
+{
+    "products":[
+        {
+            "id":"1",
+            "pname":"tshirts",
+            "price":1000
+        },
+          {
+            "id":"2",
+            "pname":"tops",
+            "price":2000
+        },
+          {
+            "id":"3",
+            "pname":"pants",
+            "price":3000
+        }
+    ]
+}
